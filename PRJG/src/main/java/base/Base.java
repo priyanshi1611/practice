@@ -6,5 +6,9 @@ public class Base
 	{
 		System.out.println("hey!");
 	}
+	public void buy()
+	{
+		System.out.println("Dragon fruit");
+	}
 }
 
